@@ -4,6 +4,6 @@
 
 :<p>Production Package Deployments from Staging</p>
 
-<p>This is the first step in the Code Pipeline training.  Eddie Kwesi I am so proud of you</p>
+<p>This is the first step in the Code Pipeline training. CodeBased pipeline in productionn  </p>
 </body>
 </html>
