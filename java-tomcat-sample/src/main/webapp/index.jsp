@@ -4,6 +4,6 @@
 
 <p>Production Package Deployments from Staging</p>
 
-<p>This is the first step in the Code Pipeline training. CodeBased pipeline in production!!!</p>
+<p>This is the first step in the Code Pipeline training. CodeBased pipeline in Dev Environment!!!</p>
 </body>
 </html>
