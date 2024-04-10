@@ -3,7 +3,7 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        echo 'Hi, this is Eddie Kwesi from Ghana and I AM in the presence!!!!!!'
+                        echo 'Initialising Code deployment into prod...!!'
                        
                   }
             }
